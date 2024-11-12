@@ -54,8 +54,8 @@ exports.config = {
     capabilities: [{
         // capabilities for local Appium web tests on an Android Emulator
         "appium:platformName": "Android",
-        "appium:platformVersion": "15",
-        "appium:deviceName": "emulator-5556",
+        "appium:platformVersion": "7.1.2",
+        "appium:deviceName": "emulator-5554",
         "appium:appPackage": "com.swaglabsmobileapp",
         "appium:app": path.join(process.cwd(), "app/sample_app.apk"),
         "appium:appActivity": "com.swaglabsmobileapp.SplashActivity",
