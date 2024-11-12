@@ -1,4 +1,4 @@
-# SwagLab Mobile App Automation using Appium
+# Swag Labs Mobile App Automation using Appium
 
 ## Scenario
 
